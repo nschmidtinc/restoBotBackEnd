@@ -1,0 +1,279 @@
+{
+    "1-514-980-4269": {
+        "2018-02-28/8:00": {
+            "client": "Timmy",
+            "phoneNumber": "1-514-980-4269",
+            "restaurant": "Tim Hortons",
+            "city": "Montréal",
+            "nbOfPeople": "1 person",
+            "nbSeats": 2,
+            "date": "2018-02-28",
+            "time": "8:00",
+            "restoNumber": "450-567-1234",
+            "address": "123 rue bob",
+            "hourIn": 8,
+            "hourOut": 9,
+            "isOver": false,
+            "isCancelled": false
+        },
+        "2018-07-11/8:00": {
+            "client": "Timmy",
+            "phoneNumber": "1-514-980-4269",
+            "restaurant": "Tim Hortons",
+            "restoNumber": "450-567-1234",
+            "address": "123 rue bob",
+            "city": "Montréal",
+            "nbOfPeople": "1 person",
+            "nbSeats": 2,
+            "date": "2018-07-11",
+            "time": "8:00",
+            "hourIn": 8,
+            "hourOut": 8,
+            "isOver": false,
+            "isCancelled": false
+        },
+        "2018-07-12/8:00": {
+            "client": "Timmy",
+            "phoneNumber": "1-514-980-4269",
+            "restaurant": "Tim Hortons",
+            "restoNumber": "450-567-1234",
+            "address": "123 rue bob",
+            "city": "Montréal",
+            "nbOfPeople": "1 person",
+            "nbSeats": 2,
+            "date": "2018-07-12",
+            "time": "8:00",
+            "hourIn": 8,
+            "hourOut": 8,
+            "isOver": false,
+            "isCancelled": false
+        },
+        "2018-07-13/8:00": {
+            "client": "Timmy",
+            "phoneNumber": "1-514-980-4269",
+            "restaurant": "Tim Hortons",
+            "restoNumber": "450-567-1234",
+            "address": "123 rue bob",
+            "city": "Montréal",
+            "nbOfPeople": "1 person",
+            "nbSeats": 2,
+            "date": "2018-07-13",
+            "time": "8:00",
+            "hourIn": 8,
+            "hourOut": 8,
+            "isOver": false,
+            "isCancelled": false
+        },
+        "2018-07-14/8:00": {
+            "client": "Timmy",
+            "phoneNumber": "1-514-980-4269",
+            "restaurant": "Tim Hortons",
+            "restoNumber": "450-567-1234",
+            "address": "123 rue bob",
+            "city": "Montréal",
+            "nbOfPeople": "1 person",
+            "nbSeats": 2,
+            "date": "2018-07-14",
+            "time": "8:00",
+            "hourIn": 8,
+            "hourOut": 8,
+            "isOver": false,
+            "isCancelled": false
+        }
+    },
+    "1-514-456-4269": {
+        "2018-12-30/12:00": {
+            "client": "Kirby",
+            "phoneNumber": "1-514-456-4269",
+            "restaurant": "McDonald's",
+            "restoNumber": "450-345-1234",
+            "address": "345 rue test",
+            "city": "Montréal",
+            "nbOfPeople": "5 people",
+            "nbSeats": 6,
+            "date": "2018-12-30",
+            "time": "12:00",
+            "hourIn": 12,
+            "hourOut": 12,
+            "isOver": false,
+            "isCancelled": false
+        }
+    },
+    "1-234-567-8900": {
+        "2018-12-30/12:00": {
+            "client": "Kirby",
+            "phoneNumber": "1-234-567-8900",
+            "restaurant": "McDonald's",
+            "restoNumber": "450-345-1234",
+            "address": "345 rue test",
+            "city": "Montréal",
+            "nbOfPeople": "6 people",
+            "nbSeats": 6,
+            "date": "2018-12-30",
+            "time": "12:00",
+            "hourIn": 12,
+            "hourOut": 12,
+            "isOver": false,
+            "isCancelled": false
+        }
+    },
+    "1-234-567-8901": {
+        "2018-12-30/12:00": {
+            "client": "Kirby",
+            "phoneNumber": "1-234-567-8901",
+            "restaurant": "McDonald's",
+            "restoNumber": "450-345-1234",
+            "address": "345 rue test",
+            "city": "Montréal",
+            "nbOfPeople": "6 people",
+            "nbSeats": 6,
+            "date": "2018-12-30",
+            "time": "12:00",
+            "hourIn": 12,
+            "hourOut": 12,
+            "isOver": false,
+            "isCancelled": false
+        }
+    },
+    "1-234-567-8902": {
+        "2018-12-30/12:00": {
+            "client": "Kirby",
+            "phoneNumber": "1-234-567-8902",
+            "restaurant": "McDonald's",
+            "restoNumber": "450-345-1234",
+            "address": "345 rue test",
+            "city": "Montréal",
+            "nbOfPeople": "5 people",
+            "nbSeats": 6,
+            "date": "2018-12-30",
+            "time": "12:00",
+            "hourIn": 12,
+            "hourOut": 12,
+            "isOver": false,
+            "isCancelled": false
+        }
+    },
+    "1-234-567-8903": {
+        "2018-12-30/12:00": {
+            "client": "Kirby",
+            "phoneNumber": "1-234-567-8903",
+            "restaurant": "McDonald's",
+            "restoNumber": "450-345-1234",
+            "address": "345 rue test",
+            "city": "Montréal",
+            "nbOfPeople": "6 people",
+            "nbSeats": 6,
+            "date": "2018-12-30",
+            "time": "12:00",
+            "hourIn": 12,
+            "hourOut": 12,
+            "isOver": false,
+            "isCancelled": false
+        }
+    },
+    "1-234-567-8904": {
+        "2018-12-30/12:00": {
+            "client": "Kirby",
+            "phoneNumber": "1-234-567-8904",
+            "restaurant": "McDonald's",
+            "restoNumber": "450-345-1234",
+            "address": "345 rue test",
+            "city": "Montréal",
+            "nbOfPeople": "2 people",
+            "nbSeats": 2,
+            "date": "2018-12-30",
+            "time": "12:00",
+            "hourIn": 12,
+            "hourOut": 12,
+            "isOver": false,
+            "isCancelled": false
+        }
+    },
+    "1-514-450-4269": {
+        "2018-12-31/22:00": {
+            "client": "Sinistar",
+            "phoneNumber": "1-514-450-4269",
+            "restaurant": "Tim Hortons",
+            "restoNumber": "450-567-1234",
+            "address": "567 rue Fox",
+            "city": "Montréal",
+            "nbOfPeople": "1 person",
+            "nbSeats": 2,
+            "date": "2018-12-30",
+            "time": "10:00",
+            "hourIn": 10,
+            "hourOut": 11,
+            "isOver": false,
+            "isCancelled": false
+        }
+    },
+    "1-434-444-4444": {
+        "2018-02-23/17:00": {
+            "clientNumber": "1-434-444-4444",
+            "restoNumber": "450-345-1234",
+            "city": "Montreal",
+            "nbOfPeople": "3 people",
+            "nbSeats": 4,
+            "date": "2018-02-23",
+            "time": "17:00",
+            "hourIn": 17,
+            "hourOut": 18,
+            "isOver": false,
+            "isCancelled": false
+        }
+    },
+    "1-134-444-4444": {
+        "2018-02-23/17:00": {
+            "clientNumber": "1-134-444-4444",
+            "restoNumber": "450-345-1234",
+            "city": "Montreal",
+            "nbOfPeople": "3 people",
+            "nbSeats": 4,
+            "date": "2018-02-23",
+            "time": "17:00",
+            "hourIn": 17,
+            "hourOut": 18,
+            "isOver": false,
+            "isCancelled": false
+        },
+        "2019-02-23/17:00": {
+            "clientNumber": "1-134-444-4444",
+            "restoNumber": "450-345-1234",
+            "city": "Montreal",
+            "nbOfPeople": "3 people",
+            "nbSeats": 4,
+            "date": "2019-02-23",
+            "time": "17:00",
+            "hourIn": 17,
+            "hourOut": 18,
+            "isOver": false,
+            "isCancelled": false
+        },
+        "2018-02-23/14:00": {
+            "clientNumber": "1-134-444-4444",
+            "restoNumber": "450-345-1234",
+            "city": "Montreal",
+            "nbOfPeople": "3 people",
+            "nbSeats": 4,
+            "date": "2018-02-23",
+            "time": "14:00",
+            "hourIn": 14,
+            "hourOut": 15,
+            "isOver": false,
+            "isCancelled": false
+        },
+        "2018-02-23/12:00": {
+            "clientNumber": "1-134-444-4444",
+            "restoNumber": "450-345-1234",
+            "city": "Montreal",
+            "nbOfPeople": "3 people",
+            "nbSeats": 4,
+            "date": "2018-02-23",
+            "time": "12:00",
+            "hourIn": 12,
+            "hourOut": 13,
+            "isOver": false,
+            "isCancelled": false
+        }
+    }
+}

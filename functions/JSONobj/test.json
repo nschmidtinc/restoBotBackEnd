@@ -1,0 +1,18 @@
+[
+    {
+        "client": "Timmy",
+        "phoneNumber": "1-514-980-4269",
+        "restaurant": "Tim Hortons",
+        "city": "Montréal",
+        "nbOfPeople": "1 person",
+        "nbSeats": 2,
+        "date": "2018-02-28",
+        "time": "8:00",
+        "restoNumber": "450-567-1234",
+        "address": "123 rue bob",
+        "hourIn": 8,
+        "hourOut": 9,
+        "isOver": false,
+        "isCancelled": false
+    }
+]

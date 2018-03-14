@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^5.0.0-alpha.2",
+    "timeout-as-promise": "^1.0.0"
+  },
+  "name": "restobot-express",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
